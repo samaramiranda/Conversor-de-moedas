@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Conversor from './components/Conversor'
+import Conversor from './components/Conversor';
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
       </div>
     </div>
   );
-}
+};
 
 export default App;
 
